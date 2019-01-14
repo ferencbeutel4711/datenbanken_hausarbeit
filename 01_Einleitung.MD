@@ -1,5 +1,5 @@
 # Einleitung
-In Zeiten des Internet of Things werden täglich unvorstellbare Mengen an Daten erzeugt. Eine kürzliche Auswertung zeigt, wie viele Daten minütlich erzeugt werden <sup>[1](#1)</sup>. Ein Beispiel dafür ist in Abbildung 1 zu sehen.
+In Zeiten des Internet of Things werden täglich unvorstellbare Mengen an Daten erzeugt. Eine kürzliche Auswertung zeigt, wie viele Daten minütlich erzeugt werden <sup id="a1">[1](#f1)</sup>. Ein Beispiel dafür ist in Abbildung 1 zu sehen.
 
 | ![Report of Data Generation](https://lh3.googleusercontent.com/xS1-tprreDq8gVtEDCmfAlfOqNr2s5LFTYYJeiA1MaFwg5jWYPpPJ8LwCwJoLWABtfCmIcILehSt)|
 |---|
