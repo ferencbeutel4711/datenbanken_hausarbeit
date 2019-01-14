@@ -27,7 +27,7 @@ ActiveMQ ist ein Open-Source Message-Broker, der genau wie RabbitMQ AMQP impleme
 ## Vergleich der Message-Broker
 Vergleicht man Kafka mit RabbitMQ bzw. ActiveMQ wird schnell ersichtlich, dass es ein unfairer Vergleich ist. Kafka ist eine komplette Streaming-Plattform, während RabbitMQ/ ActiveMQ lediglich Message-Broker sind. Daher wird im folgenden Vergleich nur der Message-Broker-Teil von Kafka in den Vergleich mit einbezogen.
 | | Kafka | ActiveMQ | RabbitMQ |
-| --- | --- | --- | --- |
+| --- |
 | Sterne Github (Nutzer) | ~10,8k | ~1,3k | ~5,1k |
 | 1 Thread Msg./s schreiben | 165k | 5k | 20k |
 | AMQP Support | nur mit Middleware | ja | ja |
@@ -60,4 +60,5 @@ Es folgt ein Vergleich der verschiedenen vorgestellten Frameworks, mit denen Str
 Wie zu sehen ist, unterscheiden sich die Frameworks stark voneinander. Daher ist es wichtig, das Framework zu wählen, dass die eigenen Anforderungen am Besten unterstützt. Weiterhin unterscheiden sich die Frameworks teilweise radikal in der Art, wie Stream Processing implementiert wird: In Akka beispielsweise ist die komplette Softwarearchitektur grundlegend anders.
 
 <b id="f1">1:</b> https://kafka.apache.org/intro. [↩](#a1)
+
 <b id="f2">2:</b> http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-complete-v1.0-os.pdf. [↩](#a2)
