@@ -21,7 +21,7 @@ RabbitMQ ist ein Message Broker, der das Advanced Message Queuing Protocol (AMQP
 | *Abbildung 1: Übersicht über Systemarchitektur RabbitMQ* |
 | *Quelle: https://www.cloudamqp.com/img/blog/workflow-rabbitmq.png* |
 
-In Abbildung ist das grundlegende Prinzip von RabbitMQ zu sehen. Wie zu sehen ist, gibt es neben dem Message Broker, dessen Rolle RabbitMQ übernimmt, noch Producer und Consumer. Hier liegt ein ähnliches Prinzip wie bei Kafka vor. Allerdings wird deutlich, dass RabbitMQ eine kleinere API im Vergleich zu Kafka anbietet.
+In Abbildung 1 ist das grundlegende Prinzip von RabbitMQ zu sehen. Wie zu sehen ist, gibt es neben dem Message Broker, dessen Rolle RabbitMQ übernimmt, noch Producer und Consumer. Hier liegt ein ähnliches Prinzip wie bei Kafka vor. Allerdings wird deutlich, dass RabbitMQ eine kleinere API im Vergleich zu Kafka anbietet.
 ### ActiveMQ
 ActiveMQ ist ein Open-Source Message-Broker, der genau wie RabbitMQ AMQP implementiert. Weiterhin gibt es eine Java-Message-Service (JMS) Integration. Genau wie Kafka und RabbitMQ ist auch ActiveMQ als verteiltes System deploybar. ActiveMQ ist auch als reine In-Memory Lösung verfügbar, was Integrationstests deutlich vereinfacht.
 ## Vergleich der Message-Broker
