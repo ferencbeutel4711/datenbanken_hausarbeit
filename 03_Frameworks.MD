@@ -26,8 +26,9 @@ In Abbildung ist das grundlegende Prinzip von RabbitMQ zu sehen. Wie zu sehen is
 ActiveMQ ist ein Open-Source Message-Broker, der genau wie RabbitMQ AMQP implementiert. Weiterhin gibt es eine Java-Message-Service (JMS) Integration. Genau wie Kafka und RabbitMQ ist auch ActiveMQ als verteiltes System deploybar. ActiveMQ ist auch als reine In-Memory Lösung verfügbar, was Integrationstests deutlich vereinfacht.
 ## Vergleich der Message-Broker
 Vergleicht man Kafka mit RabbitMQ bzw. ActiveMQ wird schnell ersichtlich, dass es ein unfairer Vergleich ist. Kafka ist eine komplette Streaming-Plattform, während RabbitMQ/ ActiveMQ lediglich Message-Broker sind. Daher wird im folgenden Vergleich nur der Message-Broker-Teil von Kafka in den Vergleich mit einbezogen.
+
 | | Kafka | ActiveMQ | RabbitMQ |
-| --- |
+| --- | --- | --- | --- |
 | Sterne Github (Nutzer) | ~10,8k | ~1,3k | ~5,1k |
 | 1 Thread Msg./s schreiben | 165k | 5k | 20k |
 | AMQP Support | nur mit Middleware | ja | ja |
@@ -50,6 +51,7 @@ Flink ist eine native Streaming-Lösung, die das größte Feature-Set besitzt. S
 
 ## Vergleich der Agenten-Frameworks
 Es folgt ein Vergleich der verschiedenen vorgestellten Frameworks, mit denen Stream-Processing-Agenten erstellt werden können:
+
 | | Akka Streams | Apache Storm | Spark Streaming | Apache Flink |
 | --- | --- | --- | --- | --- |
 | nativ vs batch | nativ | nativ | micro-batch | nativ |
