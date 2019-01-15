@@ -7,6 +7,7 @@ Hierbei handelt es sich um eine Hausarbeit im Modul Datenbanken im Online-Studiu
 ## Inhalt
     - 01: Einleitung
     - 02: Theoretische Grundlagen
-    - 03: Frameworks
-    - 04: Beispiele
-    - 05: Fazit
+    - 03: Arbeitsweise
+    - 04: Frameworks
+    - 05: Beispiele
+    - 06: Fazit
