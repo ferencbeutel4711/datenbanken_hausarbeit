@@ -19,4 +19,5 @@ In dieser Arbeit sollen zunächst die theoretischen Grundlagen und Arbeitsweise 
 
 
 <b id="f1">1:</b> https://www.domo.com/assets/downloads/18_domo_data-never-sleeps-6+verticals.pdf [↩](#a1)
+
 <b id="f2">2:</b> https://www.forbes.com/sites/louiscolumbus/2018/08/16/iot-market-predicted-to-double-by-2021-reaching-520b/#1d47e2761f94 [↩](#a2)
