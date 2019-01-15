@@ -3,7 +3,7 @@ Hierbei handelt es sich um eine Hausarbeit im Modul Datenbanken im Online-Studiu
 ## Autoren
 | Berengar Doege | Ferenc Beutel |
 |---|---|
-||299329|
+|244510|299329|
 ## Inhalt
     - 01: Einleitung
     - 02: Theoretische Grundlagen
